@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=#FF69B4&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Imlafdil+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;42+The+Network+Student;Born2beroot+Conqueror!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Imlafdil+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;42+The+Network+Student;Born2beroot+Conqueror!" alt="Typing SVG" />
 </div>
 
 ---
@@ -15,20 +15,102 @@
 
 ## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header&text=Tech%20Stack&fontSize=30&fontColor=fff&animation=twinkling" />
+
+## 💻 Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=000000" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
 
 ---
 
 
-### 🚀 Featured Projects
-- 🔹 [C Language POOL] — Practice exercises to master C programming fundamentals.
-- 🔹 [LIBFT] — Custom implementation of standard C library functions.
-- 🔹 [GET_NEXT_LINE] — Function to read a line from a file descriptor efficiently.
-- 🔹 [FT_PRINTF] — Custom version of printf to format and print text in C.
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏊 C Language POOL
+<img src="https://img.shields.io/badge/Completed-100%25-FF69B4?style=for-the-badge" />
+
+Practice exercises to **master C programming fundamentals**. Intensive training covering:
+- Memory management
+- Pointers & arrays
+- String manipulation
+- Shell scripting
+
+**Tech:** `C` `Bash` `Makefile`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 LIBFT
+<img src="https://img.shields.io/badge/Completed-125%2F100-FF69B4?style=for-the-badge" />
+
+Custom implementation of **50+ standard C library functions**. Core project building:
+- String functions
+- Memory functions
+- Linked lists
+- File descriptors
+
+**Tech:** `C` `Makefile`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 GET_NEXT_LINE
+<img src="https://img.shields.io/badge/Completed-125%2F100-FF69B4?style=for-the-badge" />
+
+Function to **read lines efficiently** from file descriptors. Advanced concepts:
+- Static variables
+- Buffer management
+- Multiple FDs
+- Memory optimization
+
+**Tech:** `C` `File I/O`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖨️ FT_PRINTF
+<img src="https://img.shields.io/badge/In_Progress-80%25-FFD700?style=for-the-badge" />
+
+Custom **printf recreation** with formatted output. Mastering:
+- Variadic functions
+- Format specifiers
+- Type conversions
+- Edge cases
+
+**Tech:** `C` `Variadic Args`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -53,43 +135,33 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imlafdil&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=imlafdil&theme=dark&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
 </div>
 
 ---
-
-## 📈 Contribution Graph
+## 📊 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imlafdil&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imlafdil&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area_color=FF69B4&title_color=FFFFFF&area=true" alt="Activity Graph" />
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        with:
-          github_user_name: imlafdil
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imlafdil/imlafdil/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imlafdil/imlafdil/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imlafdil/imlafdil/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 
+## 📅 Contribution Calendar
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imlafdil&color=00FF41&style=for-the-badge" alt="Profile Views" />
+  <img src="https://ghchart.rshah.org/FF69B4/imlafdil" alt="Contribution Chart" />
 </div>
