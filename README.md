@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=000000" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Algorithm-FF69B4?style=for-the-badge&logo=algolia&logoColor=white&labelColor=000000" />
 </p>
 
 <p align="center">
@@ -36,6 +37,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 
 ---
@@ -135,13 +137,15 @@ Linux **system administration & security** project. Focus on:
 
 ---
 
-## 💻 Most Used Language
+## 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C%20Language-💗-ff1493?style=for-the-badge&logo=c&logoColor=ffffff&labelColor=000000&color=ff69b4" />
-  <br><br>
-  <img src="https://img.shields.io/badge/100%25-Pink%20Cyberpunk-ff69b4?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/C-💗-ff1493?style=for-the-badge&logo=c&logoColor=ffffff&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Python-💗-ff1493?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000" />
+  <img src="https://img.shields.io/badge/HTML5-💗-ff1493?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CSS3-💗-ff1493?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=000000" />
 </div>
+
 
 
 ---
