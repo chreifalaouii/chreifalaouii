@@ -96,7 +96,7 @@ Function to **read lines efficiently** from file descriptors. Advanced concepts:
 <td width="50%" valign="top">
 
 ### 🖨️ FT_PRINTF
-<img src="https://img.shields.io/badge/In_Progress-80%25-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Completed-125%2F100-FF69B4?style=for-the-badge" />
 
 Custom **printf recreation** with formatted output. Mastering:
 - Variadic functions
@@ -117,12 +117,10 @@ Custom **printf recreation** with formatted output. Mastering:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imlafdil&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imlafdil&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chreifalaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chreifalaoui&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF6B00&currStreakLabel=FF69B4" alt="GitHub Streak" />
 </div>
 
 ---
@@ -130,8 +128,9 @@ Custom **printf recreation** with formatted output. Mastering:
 ## 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlafdil&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/C-100%25-blueviolet?style=for-the-badge&logo=c&logoColor=white" />
 </div>
+
 
 ---
 
@@ -153,15 +152,17 @@ Custom **printf recreation** with formatted output. Mastering:
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imlafdil/imlafdil/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imlafdil/imlafdil/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imlafdil/imlafdil/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chreifalaouii/chreifalaouii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chreifalaouii/chreifalaouii/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chreifalaouii/chreifalaouii/output/github-contribution-grid-snake.svg">
 </picture>
+
 ---
 
 
 ## 📅 Contribution Calendar
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/FF69B4/imlafdil" alt="Contribution Chart" />
+  <img src="https://ghchart.rshah.org/FF69B4/chreifalaouii" alt="Contribution Chart" />
 </div>
+
