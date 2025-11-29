@@ -114,15 +114,12 @@ Custom **printf recreation** with formatted output. Mastering:
 
 ---
 
-
 ## 📊 GitHub Stats
 
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chreifalaoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chreifalaoui&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF6B00&currStreakLabel=FF69B4" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chreifalaouii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chreifalaouii&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF6B00&currStreakLabel=FF69B4" alt="GitHub Streak" />
 </div>
-
 ---
 
 ## 💻 Most Used Languages
@@ -130,13 +127,6 @@ Custom **printf recreation** with formatted output. Mastering:
 <div align="center">
   <img src="https://img.shields.io/badge/C-100%25-blueviolet?style=for-the-badge&logo=c&logoColor=white" />
 </div>
-
-
----
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 ## 📊 Activity Graph
