@@ -136,9 +136,7 @@ Custom **printf recreation** with formatted output. Mastering:
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=imlafdil&theme=dark&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 ## 📊 Activity Graph
@@ -146,16 +144,6 @@ Custom **printf recreation** with formatted output. Mastering:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imlafdil&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area_color=FF69B4&title_color=FFFFFF&area=true" alt="Activity Graph" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chreifalaouii/chreifalaouii/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chreifalaouii/chreifalaouii/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chreifalaouii/chreifalaouii/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
