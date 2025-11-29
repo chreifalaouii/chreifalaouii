@@ -1,27 +1,28 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w3dDl6dmRoeXhkN3g4dDIxNThlYzdsMzN0eHVxdnI4ZTltc25kZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EJGsKGyu9r48KgiOB4/giphy.gif" alt="fun gif" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Imlafdil+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;1337+Coding+School+Student;Born2beroot+Conqueror!" alt="Typing SVG" />
+</div>
 
 ---
 
+## 🚀 About Me
 
-<h1 align="center">Hi 👋, I'm emmy</h1>
-<h3 align="center">A passionate developer | C enthusiast | Lifelong learner</h3>
-
-<p align="center">
-  🔭 I’m currently working on <b>Born2beroot</b><br/>
-  🌱 I’m learning advanced C programming & data structures<br/>
-  ⚡ Fun fact: I love building efficient algorithms and solving challenges
-</p>
+- 🎓 Student at **42 The Network**
+- 💻 Currently working on **Born2beroot**
+- 🌱 Learning **System Administration** and **Linux**
+- 🎯 Goal: Master the 42 curriculum
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,git,linux,vscode,html,css" />
-</p>
+## 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
 
 ### 🚀 Featured Projects
 - 🔹 [C Language POOL] — Practice exercises to master C programming fundamentals.
@@ -31,6 +32,52 @@
 
 ---
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY2cXB2MDdhYWdqdHo1ejQ2ZHZicnM1b3RkemZzY2FodnNnZHpyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/56VFAklJ9ue1bilT8S/giphy.gif" alt="fun GIF" />
-</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imlafdil&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imlafdil&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41" alt="GitHub Streak" />
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlafdil&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imlafdil&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imlafdil&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/imlafdil/imlafdil/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=imlafdil&color=00FF41&style=for-the-badge" alt="Profile Views" />
+</div>
