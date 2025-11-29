@@ -106,9 +106,32 @@ Custom **printf recreation** with formatted output. Mastering:
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Born2BeRoot
+<img src="https://img.shields.io/badge/In%20Progress-0%25-FF69B4?style=for-the-badge" />
+
+Linux **system administration & security** project. Focus on:
+- User & permission management
+- File system & services
+- Networking basics
+- Security hardening
+
+**Tech:** `Linux` `Bash` `Networking`
+
+</td>
+<td width="50%" valign="top">
+
+<!-- Empty cell to balance table -->
+</td>
+</tr>
 </table>
 
 </div>
+
+---
+
 
 ---
 
