@@ -117,12 +117,11 @@ Custom **printf recreation** with formatted output. Mastering:
 ## 💻 Most Used Language
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Most%20Used-C-ff69b4?style=for-the-badge&logo=c&logoColor=ffffff&labelColor=0d0d0d&color=ff1493" />
-  
+  <img src="https://img.shields.io/badge/C%20Language-💗-ff1493?style=for-the-badge&logo=c&logoColor=ffffff&labelColor=000000&color=ff69b4" />
   <br><br>
-
-  <img src="https://img.shields.io/badge/Usage-100%25-ff1493?style=for-the-badge&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/100%25-Pink%20Cyberpunk-ff69b4?style=for-the-badge&labelColor=000000" />
 </div>
+
 
 ---
 ## 📊 Activity Graph
