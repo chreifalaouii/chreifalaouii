@@ -4,12 +4,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Student at **1337**
-- 💻 Currently working on **Born2beroot**
-- 🌱 Learning **System Administration** and **Linux**
-- 🎯 Goal: Master the 42 curriculum
 
 ---
 
