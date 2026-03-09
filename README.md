@@ -106,7 +106,7 @@ Custom **printf recreation** with formatted output. Mastering:
 <td width="50%" valign="top">
 
 ### 🛡️ Born2BeRoot
-<img src="https://img.shields.io/badge/In%20Progress-110/125-FF69B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Completed-125%2F110-FF69B4?style=for-the-badge" />
 
 Linux **system administration & security** project. Focus on:
 - User & permission management
