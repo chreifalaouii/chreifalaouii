@@ -76,7 +76,7 @@ Custom implementation of **50+ standard C library functions**. Core project buil
 <td width="50%" valign="top">
 
 ### 📖 GET_NEXT_LINE
-<img src="https://img.shields.io/badge/Completed-125%2F100-FF69B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Completed-125%2F125-FF69B4?style=for-the-badge" />
 
 Function to **read lines efficiently** from file descriptors. Advanced concepts:
 - Static variables
