@@ -56,6 +56,9 @@ Practice exercises to **master C programming fundamentals**. Intensive training 
 
 **Tech:** `C` `Bash` `Makefile`
 
+</td>
+<td width="50%" valign="top">
+
 ### 🏊 Python Language POOL
 <img src="https://img.shields.io/badge/Completed-100%25-FF69B4?style=for-the-badge" />
 
