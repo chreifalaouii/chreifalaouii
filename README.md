@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+imlafdil+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;1337+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Eman+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Software+engineer+Student" alt="Typing SVG" />
 </div>
 
 ---
@@ -55,6 +55,23 @@ Practice exercises to **master C programming fundamentals**. Intensive training 
 - Shell scripting
 
 **Tech:** `C` `Bash` `Makefile`
+
+### 🏊 Python Language POOL
+<img src="https://img.shields.io/badge/Completed-100%25-FF69B4?style=for-the-badge" />
+
+Practice exercises to **master python programming fundamentals**. Intensive training covering:
+- Object-Oriented Programming
+- Lists
+- Tuples, Sets & Dictionaries
+- Functions
+- Comprehensions
+- Errors & Exception Handling
+- Files
+- Modules & Packages
+- Recursion
+-  Algorithms & Problem Solving
+
+**Tech:** `Python` `Bash` `Makefile`
 
 </td>
 <td width="50%" valign="top">
