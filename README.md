@@ -77,7 +77,7 @@ Practice exercises to **master python programming fundamentals**. Intensive trai
 **Tech:** `Python` `Bash` `Makefile`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="button">
 
 ### 📚 LIBFT
 <img src="https://img.shields.io/badge/Completed-125%2F100-FF69B4?style=for-the-badge" />
